@@ -1,0 +1,189 @@
+ROUND 1 – A FOME
+Uma mulher da comunidade se aproxima com expressão preocupada, segurando a mão de uma criança pequena. Ela explica que muitas famílias estão passando por dificuldades e que, em alguns dias, não conseguem comida suficiente para todos.
+Como retratado na obra: 
+13 de maio de 1958
+Carolina escreve:
+“Sinto muita pena dos meus filhos. Quando veem as coisas para comer que trago para casa, gritam: 'Viva a Mamãe!' Seus gritos me agradam.
+Nesse dia, ela relata a dificuldade de alimentar seus filhos e descreve a fome como algo constante em sua vida.
+A fome é um dos problemas mais graves enfrentados pelos moradores da comunidade, e todos esperam alguma solução para melhorar essa situação.
+Situação:
+A comunidade precisa encontrar uma forma de lidar com a falta de alimentos. O que você decide fazer?
+
+A) Criar um programa emergencial de distribuição de alimentos.
+Resultado: melhora imediata da alimentação, mas gera custos para a comunidade.
+Efeitos nos indicadores:
+•	Alimentação +3
+•	Moradia 0
+•	Emprego -1
+•	Bem-estar +2
+
+B) Criar oportunidades de trabalho temporário para os moradores.
+Resultado: algumas famílias conseguem renda para comprar comida.
+Efeitos nos indicadores:
+•	Alimentação +1
+•	Moradia 0
+•	Emprego +2
+•	Bem-estar +1
+
+C) Não agir agora e esperar que a situação melhore.
+Resultado: o problema continua e a população fica insatisfeita.
+Efeitos nos indicadores:
+•	Alimentação -2
+•	Moradia 0
+•	Emprego 0
+•	Bem-estar -2
+
+ROUND 2 – MORADIA PRECÁRIA
+
+Um grupo de moradores procura você preocupado. Eles explicam que, quando chove, a água entra nas casas e muitas famílias vivem em barracos muito frágeis.
+Como retratado na obra:
+22 de maio de 1958
+“Dura é a vida do favelado.”
+Carolina descreve as dificuldades de viver na favela.
+Esse trecho mostra como muitas comunidades pobres acabam sendo esquecidas e vivendo em condições difíceis.
+Sua decisão:
+A comunidade precisa de melhorias nas moradias. O que você fará?
+
+A) Investir na melhoria das casas existentes.
+Resultado: algumas moradias ficam mais seguras e resistentes.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia +2
+•	Emprego +1
+•	Bem-estar +1
+
+B) Criar um projeto para construir novas casas populares.
+Resultado: algumas famílias conseguem uma moradia melhor, mas o processo leva tempo.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia +3
+•	Emprego 0
+•	Bem-estar +2
+
+C) Adiar o problema para resolver outras questões primeiro.
+Resultado: as casas continuam em situação precária e os moradores ficam frustrados.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia -2
+•	Emprego 0
+•	Bem-estar -2
+
+ROUND 3 – LIXO E FALTA DE SANEAMENTO
+
+Um morador se aproxima para relatar um novo problema. Ele explica que o lixo está acumulando nas ruas e que muitas pessoas da comunidade estão ficando doentes por causa da falta de limpeza e saneamento.
+Como retratado na obra:
+19 de maio de 1958
+“Eu já estava na favela respirando o odor dos excrementos que mescla com o barro podre.”
+No diário, Carolina Maria de Jesus relata várias vezes as dificuldades de viver em um ambiente com pouca infraestrutura e condições de higiene.
+Sua decisão:
+A comunidade enfrenta problemas com lixo e falta de saneamento. O que você fará?
+
+A) Criar um programa de limpeza na comunidade.
+Resultado: melhora nas condições de saúde e higiene.
+Efeitos nos indicadores:
+•	Alimentação +1
+•	Moradia +1
+•	Emprego +1
+•	Bem-estar +2
+
+B) Fazer campanhas de conscientização para que os moradores cuidem mais do espaço.
+Resultado: algumas melhorias acontecem, mas de forma mais lenta.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia +1
+•	Emprego 0
+•	Bem-estar +1
+
+C) Ignorar o problema por enquanto.
+Resultado: o lixo continua acumulando e as doenças aumentam.
+Efeitos nos indicadores:
+•	Alimentação -1
+•	Moradia -1
+•	Emprego 0
+•	Bem-estar -2  
+
+ROUND 4 – FALTA DE TRABALHO
+
+Alguns moradores procuram você novamente. Eles explicam que muitas pessoas estão tentando encontrar trabalho, mas as oportunidades são poucas e várias famílias estão sem renda.
+
+Como retratado na obra:
+22 de maio de 1958:
+“É que amanheceu chovendo. E eu não saí para arranjar dinheiro.” 
+Nesse trecho, Carolina descrevia a dificuldade de conseguir dinheiro para sobreviver, mostrando que dependia de sair para catar papel e que, quando chovia, não conseguia trabalhar.
+Sua decisão:
+A comunidade precisa de mais oportunidades de trabalho. O que você fará?
+
+A) Criar cursos de capacitação profissional.
+Resultado: mais pessoas se preparam para conseguir trabalho no futuro.
+Efeitos nos indicadores:
+•	Alimentação +1
+•	Moradia 0
+•	Emprego +2
+•	Bem-estar +1
+
+B) Incentivar pequenos negócios dentro da comunidade.
+Resultado: surgem novas formas de renda entre os moradores.
+Efeitos nos indicadores:
+•	Alimentação +1
+•	Moradia 0
+•	Emprego +3
+•	Bem-estar +2
+
+C) Não investir nessa área agora.
+Resultado: o desemprego continua e as famílias seguem com dificuldades.
+Efeitos nos indicadores:
+•	Alimentação -1
+•	Moradia 0
+•	Emprego -2
+•	Bem-estar -2
+ 
+ROUND 5 – A VOZ DA COMUNIDADE
+
+No último momento da sua gestão, alguns moradores se reúnem para conversar com você. Eles dizem que querem participar mais das decisões da comunidade, pois acreditam que suas experiências e opiniões também são importantes.
+Carolina escreve:
+20 de maio de 1958
+“Aqui na favela quase todos lutam com dificuldades para viver. Mas quem manifesta o que sofre é só eu.”
+Assim como Carolina usou a escrita para dar voz à realidade da favela, os moradores também desejam ser ouvidos.
+Sua decisão:
+A comunidade quer participar mais das decisões. O que você fará?
+
+A) Criar reuniões comunitárias para ouvir os moradores.
+Resultado: a população se sente mais representada e participa das decisões.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia 0
+•	Emprego 0
+•	Bem-estar +3
+
+B) Criar programas sociais para ajudar a comunidade.
+Resultado: alguns problemas são amenizados com novas iniciativas.
+Efeitos nos indicadores:
+•	Alimentação +1
+•	Moradia +1
+•	Emprego +1
+•	Bem-estar +1
+
+C) Tomar decisões sozinho, sem consultar os moradores.
+Resultado: a população se sente ignorada e perde a confiança na gestão.
+Efeitos nos indicadores:
+•	Alimentação 0
+•	Moradia 0
+•	Emprego 0
+•	Bem-estar -3
+
+
+PARTE FINAL
+Após os cinco rounds, o jogo apresenta o resultado da gestão.
+Gestão Transformadora: Suas decisões ajudaram a melhorar a vida da comunidade. Os moradores agora têm melhores condições de vida e mais esperança para o futuro.
+Gestão Intermediária: Alguns problemas foram resolvidos, mas ainda existem muitas dificuldades na comunidade.
+Gestão Ineficiente: As decisões tomadas não melhoraram a situação da comunidade e muitos problemas continuam.
+(PARA FINALIZAR MOSTRARIA UMA TELA QUE TRANSMITIRIA A MENSAGEM FINAL DO JOGO) 
+
+A mensagem seria a seguinte:
+
+“Você chegou ao final da jornada.
+Durante o jogo, você tomou decisões para lidar com desafios como fome, desigualdade e falta de moradia. Nem sempre foi fácil escolher, e cada decisão trouxe consequências diferentes para a comunidade.
+Nem sempre foi fácil escolher.
+Algumas decisões ajudaram a comunidade.
+Outras trouxeram novas dificuldades. 
+Isso mostra uma realidade importante: Os problemas sociais são complexos e não possuem soluções simple
